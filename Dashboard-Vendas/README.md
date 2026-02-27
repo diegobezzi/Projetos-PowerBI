@@ -1,3 +1,6 @@
-## Dashboar de Vendas
+# Dashboard de Vendas
+Este projeto contém análise de vendas feita no Power BI.
 
-[Clique aqui para visualizar o Dashboard]([https://app.powerbi.com/groups/me/reports/8736f1b7-4ad3-45e2-bec4-9742674edebc/c208e1907bd6da2b6172?experience=power-bi])
+[![Dashboard Preview](https://github.com)](URL_PUBLICA_DO_POWERBI)
+
+- [Acessar relatório interativo](URL_PUBLICA_DO_POWERBI)
