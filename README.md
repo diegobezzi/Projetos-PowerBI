@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboard Portfolio
+# 📊 Portfolio de Projetos em Power BI
 
 Bem-vindo ao meu portfólio de dashboards em Power BI.
 Aqui você encontrará projetos desenvolvidos com foco em análise exploratória, modelagem de dados e geração de insights estratégicos.
