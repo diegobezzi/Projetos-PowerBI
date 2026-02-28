@@ -8,4 +8,4 @@ Os dashboards apresentados exploram diferentes contextos de negócio, com atenç
 Fique à vontade para explorar os projetos, analisar as soluções implementadas e acompanhar minha evolução na área de Dados. 🚀
 
 # Dashboard de Vendas
-[Clique aqui para visualizar o Dashboard](<iframe title="BaseVendas" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzJiZDYwNTAtNDQyMS00NTMzLWI4ZWUtYzk5NjQ3NGQwYmE0IiwidCI6Ijk3NTZjN2Q4LWUwMzgtNGQyOS1iNjc4LWI1NmVlYjY0ZmQzNCJ9" frameborder="0" allowFullScreen="true"></iframe>)
+[Clique aqui para visualizar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzJiZDYwNTAtNDQyMS00NTMzLWI4ZWUtYzk5NjQ3NGQwYmE0IiwidCI6Ijk3NTZjN2Q4LWUwMzgtNGQyOS1iNjc4LWI1NmVlYjY0ZmQzNCJ9)
