@@ -12,3 +12,8 @@ Fique à vontade para explorar os projetos, analisar as soluções implementadas
 
 ## 🏭 Dashboard de Produção
 [Clique aqui para visualizar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGU1OGZjM2YtZjczNC00MzI2LWI1YTAtZjk3YTQxMzNhNGE5IiwidCI6Ijk3NTZjN2Q4LWUwMzgtNGQyOS1iNjc4LWI1NmVlYjY0ZmQzNCJ9)
+
+## 👥 Dashboard de RH
+[Clique aqui para visualizar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmM0NTIxMjMtOGMwZC00MTRhLTgzMTktMjBlZmRmYjBlN2YyIiwidCI6Ijk3NTZjN2Q4LWUwMzgtNGQyOS1iNjc4LWI1NmVlYjY0ZmQzNCJ9)
+
+
