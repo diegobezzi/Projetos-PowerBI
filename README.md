@@ -16,4 +16,11 @@ Fique à vontade para explorar os projetos, analisar as soluções implementadas
 ## 👥 Dashboard de RH
 [Clique aqui para visualizar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmM0NTIxMjMtOGMwZC00MTRhLTgzMTktMjBlZmRmYjBlN2YyIiwidCI6Ijk3NTZjN2Q4LWUwMzgtNGQyOS1iNjc4LWI1NmVlYjY0ZmQzNCJ9)
 
+## 🏦 Dashboard Financeiro
+[Clique aqui para visualizar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmJiNWVkY2EtNjRkNS00N2FiLWJjYjMtYjYxZTAzNjg4MDgzIiwidCI6Ijk3NTZjN2Q4LWUwMzgtNGQyOS1iNjc4LWI1NmVlYjY0ZmQzNCJ9)
+
+
+
+
+
 
